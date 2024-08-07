@@ -32,4 +32,7 @@ Our project focuses on empowering Micro, Small, and Medium Enterprises (MSMEs) b
 
 2. **Installing the required modules**:
    ```bash
-   pip install -r requirements.txt
+   pip install uv
+   uv pip install -r requirements.txt
+   cd <dirname>
+   streamlit run main.py
