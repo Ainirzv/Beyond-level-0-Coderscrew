@@ -29,3 +29,7 @@ Our project focuses on empowering Micro, Small, and Medium Enterprises (MSMEs) b
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/micro-mart.git
+
+2. **Installing the required modules**:
+   ```bash
+   pip install -r requirements.txt
